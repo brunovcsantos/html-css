@@ -1,0 +1,88 @@
+@charset "utf-8";
+
+@font-face {
+    font-family:'idroid' ;
+    src: url('fontes/idroid.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;                }
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #84e1ad;
+    margin: 0px;                       }
+
+h1{
+    font-family: 'idroid';
+    
+    color: #3f7758;                  }
+
+h2.background_gradient{
+    font-family: 'idroid';
+    
+    padding: 0px 0px 0px 10px;
+    color: #3f7758;
+    background-image: linear-gradient(90deg, #c6ebd7, #ffffff);             }
+
+#subtitulo_estilo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    margin: 0px 0px 13px 0px;
+    padding: 10px;
+    border-radius: 15px 15px 0px 0px;
+    color: white;
+    background-color: #2fa866;
+                                        }
+
+p{
+    
+    text-align: justify;
+    text-indent: 28px;                  }
+
+.margem_conteudo{
+    margin: 0px 10px 10px 10px;         }    
+
+header{
+    background-image: linear-gradient(360deg, #1a5c38, #3cdc84);
+    padding: 20px;                      }
+
+header > h1#titulo_principal {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    color: white;
+    text-shadow: 1.5px 1.5px 5px rgba(0, 0, 0, 0.315);
+    text-align: center;                 } 
+
+header > p {
+    color: white;
+    text-shadow: 1.5px 1.5px 5px rgba(0, 0, 0, 0.315);
+    text-align: center;                 }
+
+nav > a{
+    font-size: 19px;
+    margin-left: 10px;
+    color: white;
+    text-decoration: none;              }
+
+nav > a:hover{
+    background-color: #54a377d7;
+    text-decoration: underline;         }
+
+#background_artigo{
+    background-color: #c5ebd6;
+    padding: 0px 0px 10px 0px;
+    border-radius:15px;
+    box-shadow: 1.5px 1px 5px rgba(0, 0, 0, 0.315);                 }
+
+ul{
+    display: inline-block;
+    padding: 0px 247px 0px 10px;
+}
+
+main {
+    background-color: white;
+    width: 75%;
+    margin: auto;
+    padding: 20px;                      }
+
+
+
