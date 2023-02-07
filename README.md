@@ -3,7 +3,7 @@
 
  Estou aprendendo á como criar sites e agora estou começando a gerenciar um repositorio
 
- <p>Exercícios feitos até aqui:</p>
+ Exercícios feitos até aqui:
  
 <a href="https://brunovcsantos.github.io/html-css/exercicios/modulo1/ex001/index.html"target="_blank" class="externo">Executar ex001</a>
 <a href="https://brunovcsantos.github.io/html-css/exercicios/modulo1/ex002/index.html"target="_blank" class="externo">Executar ex002</a>
