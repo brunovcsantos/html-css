@@ -27,5 +27,5 @@
     <li><a href="https://brunovcsantos.github.io/html-css/exercicios/modulo2/ex019/index.html"target="_blank" class="externo">Executar ex019</a></li>
     <li><a href="https://brunovcsantos.github.io/html-css/exercicios/modulo2/ex020/index.html"target="_blank" class="externo">Executar ex020</a></li>
     <li><a href="https://brunovcsantos.github.io/html-css/exercicios/modulo2/ex021/index.html"target="_blank" class="externo">Executar ex021</a></li>
-    <li><a href="https://brunovcsantos.github.io/html-css/exercicios/modulo2/ex022/index.html"target="_blank" class="externo">Executar ex022</a></li>
+    <li><a href="https://brunovcsantos.github.io/html-css/exercicios/modulo2/ex022/pacote-mini-projeto/index.html"target="_blank" class="externo">Executar ex022</a></li>
  </ul>
