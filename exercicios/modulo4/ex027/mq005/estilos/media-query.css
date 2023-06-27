@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+/* TYPICAL DEVICE BREAKPOINTS
+-----------------------------
+Dispositivos móveis – 320px — 480px
+iPads, tablets – 481px – 768px
+Telas pequenas, laptops – 769px – 1024px
+Desktops, telas grandes – 1025px — 1200px
+Telas extragrandes, TV – 1201px e muito mais
+*/
+
+@media screen and (min-width: 768px) {
+    span#burguer {
+        display: none;
+    }
+
+    nav {
+        display: block;
+        margin-left: 5px;
+        
+    }
+
+    nav li {
+        display: inline-block;
+        border-top: none;
+        margin-bottom: 7px;
+    }
+
+    nav a {
+        border-top: none;
+        border-radius: 10px;
+    }
+
+    main {
+        max-width: 1000px;
+    }
+}
